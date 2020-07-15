@@ -40,14 +40,33 @@ https://drive.google.com/drive/folders/1mybiI7B2_6ryzAJEPL22YPjudmStWU7C?usp=sha
 
 
 BIBILOGRAPHY
+
+
+
 ▪	https://ieee-dataport.org/keywords/covid-19-twitter-sentiment
+
+
 ▪	https://www.tweetbinder.com/blog/covid-19-coronavirus-twitter/  
+
+
 ▪	https://github.com/taspinar/twitterscraper
+
+
 ▪	https://towardsdatascience.com/twitter-sentiment-analysis-based-on-news-topics-during-covid-19-c3d738005b55
+
+
 ▪	https://www.degruyter.com/view/journals/jisys/28/3/article-p377.xml
+
+
 ▪	https://github.com/johnwalicki/Node-RED-Twitter-Workshop
+
+
 ▪	https://github.com/Lewuathe/COVID19-SIR
+
+
 ▪	https://arxiv.org/ftp/arxiv/papers/1601/1601.06971.pdf
+
+
 ▪	https://trendogate.com/
 
 
