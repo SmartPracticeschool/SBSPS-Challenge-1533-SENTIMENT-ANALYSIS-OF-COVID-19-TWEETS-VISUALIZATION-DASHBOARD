@@ -24,6 +24,9 @@ M.BINDU SRI
 NodeRedApp.URL:
 https://node-red-uktcj.eu-gb.mybluemix.net/ui/
 
+Alternate NodeRedApp.URL:(IT WILL HAVE ONLY MAIN TAB)
+https://node-red-sumal.eu-gb.mybluemix.net/ui/
+
 
 
 Google_Drive_Link for Python codes:
